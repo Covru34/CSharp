@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mykola42\\Documents\\Study\\\u0421#\\DZ\\dz2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9EA7971-4C74-4E4B-A29B-DCB83A389FB9}|dz2\\dz2.csproj|c:\\users\\mykola42\\documents\\study\\\u0441#\\dz\\dz2\\dz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9EA7971-4C74-4E4B-A29B-DCB83A389FB9}|dz2\\dz2.csproj|solutionrelative:dz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C2040E2-B390-F2EE-77AB-23BB3D386CA6}|dz2\\dz2.csproj|c:\\users\\mykola42\\documents\\study\\\u0441#\\dz\\dz2\\dz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2040E2-B390-F2EE-77AB-23BB3D386CA6}|dz2\\dz2.csproj|solutionrelative:dz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "dz2\\Program.cs",
               "ToolTip": "C:\\Users\\Mykola42\\Documents\\Study\\\u0421#\\DZ\\dz2\\dz2\\Program.cs",
               "RelativeToolTip": "dz2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T07:43:32.436Z",
               "EditorCaption": ""
